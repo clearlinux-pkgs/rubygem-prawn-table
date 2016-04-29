@@ -4,7 +4,7 @@
 #
 Name     : rubygem-prawn-table
 Version  : 0.2.2
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/prawn-table-0.2.2.gem
 Source0  : https://rubygems.org/downloads/prawn-table-0.2.2.gem
 Summary  : No detailed summary available
